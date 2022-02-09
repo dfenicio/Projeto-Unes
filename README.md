@@ -1,2 +1,3 @@
 # Projeto-Unes
-Projeto Html
+Projeto para o curso de HTML
+
